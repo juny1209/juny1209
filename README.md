@@ -6,6 +6,7 @@ Backend Developer / .NET Developer / FW Developer
 - 최신 Stack에 매우 취약합니다.
 - CSR을 시도해보고 있으나 번번히 실패합니다.
 - 2015?년에 아두이노로 입문했습니다.
+- 왕복 3시간 거리에 출퇴근 중입니다.
 
 
 ## :computer: Stacks
